@@ -1,0 +1,7 @@
+782845,Complaint,The delivery fucking rude,-1
+641147,Compalint,The vendor pervered me,-1
+229019,Complaint,Like shit,-1
+364787,Review,Holly good,4
+189571,Review,Good,5
+458507,Complaint,Rude,-1
+813007,Complaint,Shit,-1

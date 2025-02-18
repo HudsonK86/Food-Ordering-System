@@ -1,0 +1,9 @@
+Hihi|Sadia|364787|Takeaway|26.8|Successful|2025-02-04|Sadia,690,Drink,Shit,26.8,1,26.8
+Hihi|Sadia|813007|Takeaway|26.8|Successful|2025-02-04|Sadia,690,Drink,Shit,26.8,1,26.8
+Hudson|Stella|229019|Dine-In|12.6|Successful|2025-02-04|Stella,122,Food,Sushi,12.6,1,12.6
+Hihi|Sadia|458507|Dine-In|26.8|Successful|2025-02-04|Sadia,690,Drink,Shit,26.8,1,26.8
+Hudson|Sadia|641147|Dine-In|26.86|Successful|2025-02-05|Sadia,671,Food,Sushi,26.86,1,26.86
+Hudson|Stella|316527|Delivery|24.6|Waiting for Delivery|2025-02-05|Stella,122,Food,Sushi,12.6,1,12.6
+Hihi|Sadia|782845|Delivery|24.6|Successful|2025-02-05|Sadia,152,Food,Headache,12.6,1,12.6
+Hihi|Stella|189571|Takeaway|120.8|Successful|2025-02-05|Stella,728,Food,Thai Massage,120.8,1,120.8
+Hudson|Sadia|901359|Delivery|132.6|Successful|2025-02-17|Sadia,559,Food,Massage Service,120.6,1,120.6

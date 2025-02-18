@@ -1,0 +1,11 @@
+Sadia,671,Food,Sushi,26.86
+Sadia,642,Drink,Coca,3.5
+Sadia,310,Food,Pho,26.2
+Sadia,131,Food,Ga,12.6
+Sadia,690,Drink,Shit,26.8
+Sadia,559,Food,Massage Service,120.6
+Stella,728,Food,Thai Massage,120.8
+Stella,855,Food,Dance Service,12000.0
+Stella,802,Food,Date Service,26000.0
+Stella,122,Food,Sushi,12.6
+Sadia,152,Food,Headache,12.6
