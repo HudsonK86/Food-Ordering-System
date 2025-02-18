@@ -9,3 +9,5 @@ Stella,855,Food,Dance Service,12000.0
 Stella,802,Food,Date Service,26000.0
 Stella,122,Food,Sushi,12.6
 Sadia,152,Food,Headache,12.6
+Hichic,443,Food,Fried Rice,12.8
+Hichic,175,Drink,Soda,4.5

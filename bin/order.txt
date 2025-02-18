@@ -8,3 +8,4 @@ Hihi|Sadia|782845|Delivery|24.6|Successful|2025-02-05|Sadia,152,Food,Headache,12
 Hihi|Stella|189571|Takeaway|120.8|Successful|2025-02-05|Stella,728,Food,Thai Massage,120.8,1,120.8
 Hudson|Sadia|901359|Delivery|132.6|Successful|2025-02-17|Sadia,559,Food,Massage Service,120.6,1,120.6
 Hudson|Stella|968671|Delivery|12132.8|Pending|2025-02-18|Stella,728,Food,Thai Massage,120.8,1,120.8;Stella,855,Food,Dance Service,12000.0,1,12000.0
+Hudson|Hichic|785874|Takeaway|17.3|Successful|2025-02-18|Hichic,443,Food,Fried Rice,12.8,1,12.8;Hichic,175,Drink,Soda,4.5,1,4.5
